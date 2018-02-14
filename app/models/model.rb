@@ -1,5 +1,5 @@
 class Post
-  def create
+  def self.create
 
   end
 end

@@ -1,5 +1,3 @@
-class Post
-  def self.create
+class Post < ActiveRecord::Base
 
-  end
 end
